@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ulrich</h1>
+<h1 align="center">Hi 👋, I'm Duong</h1>
+
 <h3 align="center">A passionate developer from Helsinki</h3>
 
 
